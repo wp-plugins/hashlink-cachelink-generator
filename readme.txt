@@ -37,7 +37,7 @@ manually.
 1. You can either use the automatic plugin installer or your FTP program to upload it to your wp-content/plugins directory
 the top-level folder. Don't just upload all the php files and put them in `/wp-content/plugins/`.
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Visit your SEO options (*Options - All in One SEO*) for Wordpress 2.3.x, (*Settings - All in One SEO*) for Wordpress 2.5.x-2.8.x 
+1. Visit your general options
 1. Configure any options as desired
 1. That's it!
 

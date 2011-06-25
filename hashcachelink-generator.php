@@ -269,9 +269,11 @@ function hclgSendMail(){
 	//File generation
 	add_action('wp_ajax_hclggenerateFile', 'hclgMakeFile_callback');
 	function hclgMakeFile_callback() {
+		error_reporting(0);
 		$id = $_POST['id'];
 		$method = $_POST['method'];
-		$url = urldecode($_POST['url']);
+		//double decode!!!
+		$url = urldecode(urldecode($_POST['url']));
 		if( substr($url,0,7)!="http://" ){
 			$url = "http://".$url;
 		}
@@ -331,7 +333,11 @@ function hclgSendMail(){
 				$filename = "/".md5( $url );
 				if( !empty($parsedUrl['path']) ){
 					$splitPath = explode('.', $parsedUrl['path']);
-					$extension = ".".array_pop($splitPath);
+					if( count($splitPath)>=2 ){
+						$extension = ".".array_pop($splitPath);
+					}else{
+						$extension = ".html";
+					}
 				}else{
 					$extension = ".html";
 				}
