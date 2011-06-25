@@ -3,7 +3,7 @@ Contributors: korbi
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHKVKMQUWCFQQ
 Tags: hash link, hash page, caching, , seo, search engine optimization, google
 Requires at least: 3.0
-Tested up to: 3.1.3
+Tested up to: 3.2
 Stable tag: trunk
 
 Hash (affiliate) URLs and turn them into pages for your blog or simple cache URLs.
@@ -15,8 +15,11 @@ Two things are able to do with this plugin.
 **1. Make a hashlink:**
 Take a (affiliate) URL and generate a redirecting page from it.
 There are several options for **SEO**.
+
 Advantages:
+
 * prevent blocking your affiliate URL from an **Adblocker**
+* 
 * increase amount of pages for your blog on search engines like Google
 
 
