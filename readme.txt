@@ -19,7 +19,6 @@ There are several options for **SEO**.
 Advantages:
 
 * prevent blocking your affiliate URL from an **Adblocker**
-* 
 * increase amount of pages for your blog on search engines like Google
 
 
