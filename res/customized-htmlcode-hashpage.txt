@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		###TITLE###
+		<meta charset="UTF-8" />
+		###META_DESCRIPTION###
+		###META_KEYWORDS###
+		<meta http-equiv="Refresh" content="###DELAY###; URL=###URL###">
+	<body>
+	</body>
+</html>
