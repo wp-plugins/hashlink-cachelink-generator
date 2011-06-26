@@ -15,9 +15,7 @@ Two things are able to do with this plugin.
 **1. Make a hashlink:**
 Take a (affiliate) URL and generate a redirecting page from it.
 There are several options for **SEO**.
-
 Advantages:
-
 * prevent blocking your affiliate URL from an **Adblocker**
 * increase amount of pages for your blog on search engines like Google
 
