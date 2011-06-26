@@ -12,13 +12,13 @@ Hash (affiliate) URLs and turn them into pages for your blog or simple cache URL
 
 Two things are able to do with this plugin.
 
-**1. Make a hashlink:**
+**1. Generate a hashlink:**
 Take a (affiliate) URL and generate a redirecting page from it.
 There are several options for **SEO**.
 
 Advantages:
 
-* prevent blocking your affiliate URL from an **Adblocker**
+* prevent blocking your affiliate URLs from an **AdBlocker**
 * increase amount of pages for your blog on search engines like Google
 
 
@@ -29,7 +29,7 @@ If there is a file in the web, what can be in the future unavailable, simple cac
 
 
 
-For more information please visit [plugin page](http://devcon.pcriot.com/wordpress/plugins/hashlink-generator/)
+For more information please visit the [plugin page](http://devcon.pcriot.com/wordpress/plugins/hashlink-generator/)
 
 == Installation ==
 
