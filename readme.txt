@@ -29,6 +29,16 @@ If there is a file in the web, what can be in the future unavailable, simple cac
 
 
 
+In the next version:
+
+* Better integration in the Wordpress URL taxonomy
+* Adding metaboxes to Posts and Pages for quick generation
+* Choose where to save, filesystem or database
+* Shortcode support
+* Some more improvements
+
+
+
 For more information please visit the [plugin page](http://devcon.pcriot.com/wordpress/plugins/hashlink-generator/)
 
 == Installation ==
