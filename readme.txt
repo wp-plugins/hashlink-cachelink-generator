@@ -1,7 +1,7 @@
 === Hashlink Cachelink Generator ===
 Contributors: korbi
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHKVKMQUWCFQQ
-Tags: hash link, hash page, caching, , seo, search engine optimization, google
+Tags: hash link, hash page, caching, anti adblock, seo, search engine optimization, google
 Requires at least: 3.0
 Tested up to: 3.2
 Stable tag: trunk
@@ -14,7 +14,7 @@ Two things are able to do with this plugin.
 
 **1. Generate a hashlink:**
 Take a (affiliate) URL and generate a redirecting page from it.
-There are several options for **SEO**.
+There are also several options for **SEO**.
 
 Advantages:
 
@@ -25,11 +25,11 @@ Advantages:
 
 
 **2. Cache a file:**
-If there is a file in the web, what can be in the future unavailable, simple cache it and achieve it for your blog visitors.
+If there is a file in the web, what can be unavailable in the future, simple cache it and achieve it for your blog visitors.
 
 
 
-In the next version:
+In the next major version 2.0:
 
 * Better integration in the Wordpress URL taxonomy
 * Adding metaboxes to Posts and Pages for quick generation
