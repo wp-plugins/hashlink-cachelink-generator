@@ -6,26 +6,26 @@ Requires at least: 3.0
 Tested up to: 3.2
 Stable tag: trunk
 
-Hash (affiliate) URLs and turn them into pages for your blog or simple cache URLs.
+Hash (affiliate) URLs and turn them into pages for your blog or simply cache URLs.
 
 == Description ==
 
-Two things are able to do with this plugin.
+Two things you can do with this plugin.
 
 **1. Generate a hashlink:**
-Take a (affiliate) URL and generate a redirecting page from it.
+Take a (affiliate) URL and generate a static redirecting page on your blog from it.
 There are also several options for **SEO**.
 
 Advantages:
 
-* prevent blocking your affiliate URLs from an **AdBlocker**
-* increase amount of pages for your blog on search engines like Google
+* Prevent blocking your affiliate URLs from an **AdBlocker**
+* Increase the amount of pages for your blog at search engines like Google
 
 
 
 
 **2. Cache a file:**
-If there is a file in the web, what can be unavailable in the future, simple cache it and achieve it for your blog visitors.
+Files/Pages in the web, that can be unavailable in the future -> cache them and achieve it for your blog visitors.
 
 
 
